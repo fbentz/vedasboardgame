@@ -126,7 +126,7 @@ DJANGO_APPS = (
 )
 
 VENDOR_APPS = (
-    'registration',
+    #'registration',
 )
 
 LOCAL_APPS = (
