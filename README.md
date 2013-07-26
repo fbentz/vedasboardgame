@@ -1,4 +1,4 @@
 Vedasboardgame 
 ==============
 
-[![Build Status](https://travis-ci.org/fbentz/vedasgameboard.png)](https://travis-ci.org/fbentz/vedasgameboard)
+[![Build Status](https://travis-ci.org/fbentz/vedasboardgame.png)](https://travis-ci.org/fbentz/vedasboardgame)
