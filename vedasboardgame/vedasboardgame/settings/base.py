@@ -32,7 +32,7 @@ TIME_ZONE = 'Europe/Paris'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
-LANGUAGE_CODE = 'fr-fr'
+LANGUAGE_CODE = 'en-US'
 
 SITE_ID = 1
 
@@ -125,9 +125,7 @@ DJANGO_APPS = (
     # 'django.contrib.admindocs',
 )
 
-VENDOR_APPS = (
-    'registration',
-)
+VENDOR_APPS = ()
 
 LOCAL_APPS = (
     'boardgame',
@@ -163,3 +161,5 @@ LOGGING = {
         },
     }
 }
+
+ACCOUNT_ACTIVATION_DAYS = 7
